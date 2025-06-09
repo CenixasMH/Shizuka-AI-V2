@@ -43,9 +43,9 @@ Si tienes alguna pregunta, encuentras algún problema o tienes sugerencias, no d
 ## 🚀 **Estadísticas de GitHub**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kone457&repo=Shizuka-AI-V2&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=ff00ff&text_color=00ffff&icon_color=f1c40f&hide_border=true" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kone457&theme=tokyonight&background=0D1117&ring=ff00ff&fire=f1c40f&currStreakLabel=00ffff&hide_border=true" alt="Racha de GitHub">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kone457&theme=tokyonight" alt="Detalles del perfil">
+  <img src="https://github-readme-stats.vercel.app/api?username=CenixasMH&repo=Shizuka-AI-V2&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=ff00ff&text_color=00ffff&icon_color=f1c40f&hide_border=true" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CenixasMH&theme=tokyonight&background=0D1117&ring=ff00ff&fire=f1c40f&currStreakLabel=00ffff&hide_border=true" alt="Racha de GitHub">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CenixasMH&theme=tokyonight" alt="Detalles del perfil">
 </p>
 
 ---
