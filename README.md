@@ -37,10 +37,7 @@ Si tienes alguna pregunta, encuentras algún problema o tienes sugerencias, no d
 
 
 ## 👑 Creador 
-**Carlos:** [`Contactar`](https://wa.me/5355699866)
-
-
-**Cenix:** [`Contactar`](https://wa.me/5353718509)
+**Carlos:** [`Contactar`](https://wa.me/5355699866)**Cenix:** [`Contactar`](https://wa.me/5353718509)
 ---
 ## 🚀 **Estadísticas de GitHub**
 
